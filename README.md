@@ -22,7 +22,7 @@ cd backend-diary
 npm migrate
 php artisan serve
 ```
-
+for the example of the request you can import the test-diary.postman_collection to your postman
 ## Frontend Setup
 this is the command that you have to run:"
 ```
